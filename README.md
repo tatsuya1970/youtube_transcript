@@ -18,8 +18,8 @@ YouTube動画の字幕を取得し、AIを使用して要約・翻訳を行うWe
 
 1. リポジトリをクローン:
 ```bash
-git clone https://github.com/yourusername/youtube-video-summarizer.git
-cd youtube-video-summarizer
+git clone https://github.com/tatsuya1970/youtube_transcript.git
+cd youtube_transcript
 ```
 
 2. 仮想環境を作成して有効化:
